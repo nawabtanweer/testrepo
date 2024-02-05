@@ -1,0 +1,5 @@
+c_name	c_lastname	c_email
+kumar	sanoo	kumar@gmail.com
+wasim	akram	wasim@gmail.com
+kishor	kumar	kishor@gmail.com
+imran	khan	imran@gmail.com
